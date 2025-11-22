@@ -1,0 +1,9 @@
+[2025-11-22 10:15:03] ERROR: The term 'Get-Data' is not recognized as the name of a cmdlet, function, script file, or operable program.
+[2025-11-22 10:15:04] ERROR: Cannot index into a null array.
+[2025-11-22 10:15:05] ERROR: Access to the path 'C:\Temp\output.csv' is denied.
+[2025-11-22 10:15:06] ERROR: Division by zero.
+[2025-11-22 10:15:07] ERROR: You cannot call a method on a null-valued expression.
+[2025-11-22 10:15:08] ERROR: Cannot convert value "abc" to type "System.Int32". Error: "Input string was not in a correct format."
+[2025-11-22 10:15:09] ERROR: The process cannot access the file 'C:\Temp\log.txt' because it is being used by another process.
+[2025-11-22 10:15:10] ERROR: Missing an argument for parameter 'Path'. Specify a parameter of type 'System.String' and try again.
+[2025-11-22 10:15:11] ERROR: Exception calling "Open" with "0" argument(s): "The network path was not found."

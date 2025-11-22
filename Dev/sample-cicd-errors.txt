@@ -1,0 +1,10 @@
+[2025-11-22 11:00:01] ERROR: Build failed. 'npm' is not recognized as an internal or external command.
+[2025-11-22 11:00:02] ERROR: Test run failed. Cannot find module 'mocha'.
+[2025-11-22 11:00:03] ERROR: Deployment failed. Insufficient permissions to access resource group 'prod-rg'.
+[2025-11-22 11:00:04] ERROR: Linting failed. Unexpected token in JSON at position 45.
+[2025-11-22 11:00:05] ERROR: Docker build failed. Cannot locate Dockerfile: 'Dockerfile' not found in context.
+[2025-11-22 11:00:06] ERROR: Publish failed. The remote repository does not exist.
+[2025-11-22 11:00:07] ERROR: Pipeline failed. Step 'Run Tests' exited with code 1.
+[2025-11-22 11:00:08] ERROR: Artifact upload failed. File 'dist/app.zip' not found.
+[2025-11-22 11:00:09] ERROR: Rollback failed. No previous deployment found.
+[2025-11-22 11:00:10] ERROR: Timeout waiting for service 'web-app' to become healthy.
