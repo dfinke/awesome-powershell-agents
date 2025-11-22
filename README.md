@@ -1,3 +1,20 @@
+<p align="center">
+  <a href="https://www.youtube.com/dougfinke/videos">
+    <img src="media/powershellAgents.png" width="400px" alt="Unwind AI">
+  </a>
+</p>
+<br/>
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/douglasfinke/">
+    <img src="https://img.shields.io/badge/-Follow%20Doug%20Finke-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/dfinke">
+    <img src="https://img.shields.io/twitter/follow/dfinke" alt="Twitter">
+  </a>
+</p>
+
 ## What is awesome-powershell-agents?
 
 **Unleash autonomous AI agents in PowerShell—no IT admin badge required.**  
@@ -14,7 +31,7 @@ To use these agents, you’ll need the [PSAI module](https://github.com/dfinke/P
 Open PowerShell and run:
 
 ```powershell
-Install-Module -Name PSAI
+Install-Module -Name PSAIv
 ```
 
 ### 2. Get an OpenAI API Key
@@ -40,19 +57,19 @@ This is just the beginning. The world of autonomous PowerShell agents is rapidly
 ### Agent Scripts
 
 - [`Data/Csv-ToExcelMigrationAgent.ps1`](Data/Csv-ToExcelMigrationAgent.ps1)  
-	Migrates CSV files to Excel format. Finds CSVs and converts them to `.xlsx` for easier data analysis.
+	**Migrates CSV files to Excel format. Finds CSVs and converts them to `.xlsx` for easier data analysis.**
 
 - [`Data/Excel-ReportGeneratorAgent.ps1`](Data/Excel-ReportGeneratorAgent.ps1)  
-	Generates reports from Excel files. Finds `.xlsx` files, imports their data, and exports new reports.
+	**Generates reports from Excel files. Finds `.xlsx` files, imports their data, and exports new reports.**
 
 - [`Dev/Git-ChangeSummaryAgent.ps1`](Dev/Git-ChangeSummaryAgent.ps1)  
-	Summarizes Git changes. Retrieves commit logs and file changes as JSON for quick project insights.
+	**Summarizes Git changes. Retrieves commit logs and file changes as JSON for quick project insights.**
 
 - [`Dev/StackOverflow-GuidedTroubleshooterAgent.ps1`](Dev/StackOverflow-GuidedTroubleshooterAgent.ps1)  
-	Guides troubleshooting using Stack Overflow. Finds error logs, reads their content, and helps search for solutions.
+	**Guides troubleshooting using Stack Overflow. Finds error logs, reads their content, and helps search for solutions.**
 
 - [`Ops/Hot-FixReviewAgent.ps1`](Ops/Hot-FixReviewAgent.ps1)  
-	Reviews recent Windows hotfixes and performs web searches for more info on each update.
+	**Reviews recent Windows hotfixes and performs web searches for more info on each update.**
 
 ## How to Contribute
 
