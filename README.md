@@ -31,7 +31,7 @@ To use these agents, you’ll need the [PSAI module](https://github.com/dfinke/P
 Open PowerShell and run:
 
 ```powershell
-Install-Module -Name PSAIv
+Install-Module -Name PSAI
 ```
 
 ### 2. Get an OpenAI API Key
