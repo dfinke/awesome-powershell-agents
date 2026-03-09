@@ -71,6 +71,10 @@ This is just the beginning. The world of autonomous PowerShell agents is rapidly
 - [`Ops/Hot-FixReviewAgent.ps1`](Ops/Hot-FixReviewAgent.ps1)  
 	**Reviews recent Windows hotfixes and performs web searches for more info on each update.**
 
+## Related Tools
+
+- [**PowerSkills**](https://github.com/aloth/PowerSkills) — A PowerShell toolkit that gives AI agents structured access to Windows. Provides JSON-based skills for Outlook, Edge browser control, desktop automation, and system commands. Each skill includes a SKILL.md for agent self-discovery.
+
 ## How to Contribute
 
 Contributions are welcome from everyone! Whether you want to add a new agent, improve documentation, or suggest a feature, here’s how to get started:
